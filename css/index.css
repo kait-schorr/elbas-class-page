@@ -248,9 +248,9 @@ nav .nav-links a:hover {
   -webkit-box-shadow: 10px 5px 10px lightgray;
   -moz-box-shadow: 10px 5px 10px lightgray;
   box-shadow: 10px 5px 10px lightgray;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius: 20px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
